@@ -1,0 +1,25 @@
+{
+  "name": "SBC Bhabra ERP",
+  "short_name": "SBC BHABRA",
+  "description": "ISP billing and operations management — customers, connections, recovery, staff, inventory, sales, and expenses for SBC Bhabra.",
+  "start_url": "./erp.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
